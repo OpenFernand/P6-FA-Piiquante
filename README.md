@@ -6,7 +6,7 @@ Installation et mise en service du backend :
 
 - téléchargement du PROJET ci-dessous :
 
-$ git clone https://github.com/OpenFernand/oc-projet-P6-piiquante.git 
+$ git clone https://github.com/OpenFernand/P6-FA-Piiquante.git
 
 - puis, sur TERMINAL dans le dossier racine du projet taper :
 
